@@ -30,7 +30,7 @@ public:
     void setValue(int value);
 
 private:
-    int value_; ///< The value stored in the class.
+    int val; ///< The value stored in the class.
 };
 
 #endif // EXAMPLE_CLASS_H

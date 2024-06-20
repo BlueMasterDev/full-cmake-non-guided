@@ -5,12 +5,12 @@
 
 #include "example_class.h"
 
-ExampleClass::ExampleClass(int value) : value_(value) {}
+ExampleClass::ExampleClass(int value) : val(value) {}
 
 int ExampleClass::getValue() const {
-    return value_;
+    return val;
 }
 
 void ExampleClass::setValue(int value) {
-    value_ = value;
+    val = value;
 }
