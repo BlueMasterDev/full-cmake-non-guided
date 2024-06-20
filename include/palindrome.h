@@ -7,6 +7,6 @@
  *@param s String
  *@return 1 if it's a palindrome.
  */
-bool palindrome(char* s);
+bool palindrome(string s);
 
 #endif // PALINDROME_H
