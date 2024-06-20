@@ -1,0 +1,4 @@
+add_library(factorial factorial.h)
+add_library(fibonacci fibonacci.h)
+add_library(palindrome palindrome.h)
+add_library(prime prime.h)
