@@ -1,0 +1,8 @@
+PROJECT_NAME           = "MyProject"
+OUTPUT_DIRECTORY       = /home/blue/Documents/GitHub/full-cmake-non-guided/docs
+INPUT                  = /home/blue/Documents/GitHub/full-cmake-non-guided/include /home/blue/Documents/GitHub/full-cmake-non-guided/src /home/blue/Documents/GitHub/full-cmake-non-guided/main.cpp
+GENERATE_HTML          = YES
+CREATE_SUBDIRS         = YES
+RECURSIVE              = YES
+WARN_LOGFILE           = /home/blue/Documents/GitHub/full-cmake-non-guided/logs/warn.logs
+USE_MDFILE_AS_MAINPAGE = /home/blue/Documents/GitHub/full-cmake-non-guided/docs/mainpage.md
