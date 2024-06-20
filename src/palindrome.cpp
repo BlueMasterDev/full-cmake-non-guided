@@ -7,7 +7,7 @@
 #include <iostream>
 #include <string>
 
-bool palindrome(string str) {
+bool palindrome(std::string str) {
      int low = 0;
     int high = str.size() - 1;
 

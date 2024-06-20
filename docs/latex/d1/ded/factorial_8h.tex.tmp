@@ -1,0 +1,28 @@
+\doxysection{/home/blue/\+Documents/\+Git\+Hub/full-\/cmake-\/non-\/guided/include/factorial.h File Reference}
+\hypertarget{factorial_8h}{}\label{factorial_8h}\index{/home/blue/Documents/GitHub/full-\/cmake-\/non-\/guided/include/factorial.h@{/home/blue/Documents/GitHub/full-\/cmake-\/non-\/guided/include/factorial.h}}
+
+
+Returns factorial of a number.  
+
+
+This graph shows which files directly or indirectly include this file\+:
+% FIG 0
+\doxysubsubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+\Hypertarget{factorial_8h_ae1b37c26bb8e5744f5747d6cd6505356}\label{factorial_8h_ae1b37c26bb8e5744f5747d6cd6505356} 
+int {\bfseries factorial} (int n)
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Returns factorial of a number. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em n} & Number \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Factorial of number n. 
+\end{DoxyReturn}

@@ -1,0 +1,83 @@
+Start testing: Jun 20 16:20 CEST
+----------------------------------------------------------
+Unable to find executable: /home/blue/Documents/GitHub/full-cmake-non-guided/build/tests/test_factorial
+1/5 Testing: FactorialTest
+1/5 Test: FactorialTest
+Command: ""
+Directory: /home/blue/Documents/GitHub/full-cmake-non-guided/build/tests
+"FactorialTest" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FactorialTest" end time: Jun 20 16:20 CEST
+"FactorialTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/blue/Documents/GitHub/full-cmake-non-guided/build/tests/test_fibonacci
+2/5 Testing: FibonacciTest
+2/5 Test: FibonacciTest
+Command: ""
+Directory: /home/blue/Documents/GitHub/full-cmake-non-guided/build/tests
+"FibonacciTest" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FibonacciTest" end time: Jun 20 16:20 CEST
+"FibonacciTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/blue/Documents/GitHub/full-cmake-non-guided/build/tests/test_palindrome
+3/5 Testing: PalindromeTest
+3/5 Test: PalindromeTest
+Command: ""
+Directory: /home/blue/Documents/GitHub/full-cmake-non-guided/build/tests
+"PalindromeTest" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"PalindromeTest" end time: Jun 20 16:20 CEST
+"PalindromeTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/blue/Documents/GitHub/full-cmake-non-guided/build/tests/test_prime
+4/5 Testing: PrimeTest
+4/5 Test: PrimeTest
+Command: ""
+Directory: /home/blue/Documents/GitHub/full-cmake-non-guided/build/tests
+"PrimeTest" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"PrimeTest" end time: Jun 20 16:20 CEST
+"PrimeTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/blue/Documents/GitHub/full-cmake-non-guided/build/tests/test_example_class
+5/5 Testing: ExampleClassTest
+5/5 Test: ExampleClassTest
+Command: ""
+Directory: /home/blue/Documents/GitHub/full-cmake-non-guided/build/tests
+"ExampleClassTest" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ExampleClassTest" end time: Jun 20 16:20 CEST
+"ExampleClassTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 20 16:20 CEST

@@ -1,0 +1,74 @@
+warning: Specified markdown mainpage '/home/blue/Documents/GitHub/full-cmake-non-guided/docs/mainpage.md' has not been defined as input file
+/home/blue/Documents/GitHub/full-cmake-non-guided/include/example_class.h:5: warning: the name 'myclass.h' supplied as the argument in the \file statement is not an input file
+/home/blue/Documents/GitHub/full-cmake-non-guided/include/example_class.h:10: warning: Compound ExampleClass is not documented.
+/home/blue/Documents/GitHub/full-cmake-non-guided/include/factorial.h:10: warning: Member factorial(int n) (function) of file factorial.h is not documented.
+/home/blue/Documents/GitHub/full-cmake-non-guided/include/fibonacci.h:10: warning: Member fibonacci(int n) (function) of file fibonacci.h is not documented.
+/home/blue/Documents/GitHub/full-cmake-non-guided/include/palindrome.h:12: warning: Member palindrome(std::string s) (function) of file palindrome.h is not documented.
+/home/blue/Documents/GitHub/full-cmake-non-guided/include/prime.h:10: warning: Member prime(int n) (function) of file prime.h is not documented.
+/home/blue/Documents/GitHub/full-cmake-non-guided/main.cpp:13: warning: Member main() (function) of file main.cpp is not documented.
+/home/blue/Documents/GitHub/full-cmake-non-guided/src/factorial.cpp:8: warning: Member factorial(int n) (function) of file factorial.cpp is not documented.
+/home/blue/Documents/GitHub/full-cmake-non-guided/src/fibonacci.cpp:8: warning: Member fibonacci(int n) (function) of file fibonacci.cpp is not documented.
+/home/blue/Documents/GitHub/full-cmake-non-guided/src/palindrome.cpp:10: warning: Member palindrome(std::string str) (function) of file palindrome.cpp is not documented.
+/home/blue/Documents/GitHub/full-cmake-non-guided/src/prime.cpp:8: warning: Member prime(int n) (function) of file prime.cpp is not documented.
+/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/d4/d62/example__class_8cpp__incl.dot:1: error: Problems running dot: exit code=127, command='dot', arguments='"/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/d4/d62/example__class_8cpp__incl.dot" -Tpng -o "/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/d4/d62/example__class_8cpp__incl.png"'
+/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/d4/d2d/palindrome_8h__dep__incl.dot:1: error: Problems running dot: exit code=127, command='dot', arguments='"/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/d4/d2d/palindrome_8h__dep__incl.dot" -Tpng -o "/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/d4/d2d/palindrome_8h__dep__incl.png"'
+/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/d7/d54/factorial_8h__dep__incl.dot:1: error: Problems running dot: exit code=127, command='dot', arguments='"/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/d7/d54/factorial_8h__dep__incl.dot" -Tpng -o "/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/d7/d54/factorial_8h__dep__incl.png"'
+/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/d5/dd8/palindrome_8h__incl.dot:1: error: Problems running dot: exit code=127, command='dot', arguments='"/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/d5/dd8/palindrome_8h__incl.dot" -Tpng -o "/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/d5/dd8/palindrome_8h__incl.png"'
+/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/d3/d30/palindrome_8cpp__incl.dot:1: error: Problems running dot: exit code=127, command='dot', arguments='"/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/d3/d30/palindrome_8cpp__incl.dot" -Tpng -o "/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/d3/d30/palindrome_8cpp__incl.png"'
+/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/d7/d73/prime_8h__dep__incl.dot:1: error: Problems running dot: exit code=127, command='dot', arguments='"/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/d7/d73/prime_8h__dep__incl.dot" -Tpng -o "/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/d7/d73/prime_8h__dep__incl.png"'
+/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/df/d0f/fibonacci_8cpp__incl.dot:1: error: Problems running dot: exit code=127, command='dot', arguments='"/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/df/d0f/fibonacci_8cpp__incl.dot" -Tpng -o "/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/df/d0f/fibonacci_8cpp__incl.png"'
+/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/df/d92/fibonacci_8h__dep__incl.dot:1: error: Problems running dot: exit code=127, command='dot', arguments='"/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/df/d92/fibonacci_8h__dep__incl.dot" -Tpng -o "/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/df/d92/fibonacci_8h__dep__incl.png"'
+/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/d2/d35/prime_8cpp__incl.dot:1: error: Problems running dot: exit code=127, command='dot', arguments='"/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/d2/d35/prime_8cpp__incl.dot" -Tpng -o "/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/d2/d35/prime_8cpp__incl.png"'
+/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/da/dce/main_8cpp__incl.dot:1: error: Problems running dot: exit code=127, command='dot', arguments='"/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/da/dce/main_8cpp__incl.dot" -Tpng -o "/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/da/dce/main_8cpp__incl.png"'
+/home/blue/Documents/GitHub/full-cmake-non-guided/docs/latex/d2/d35/prime_8cpp__incl.dot:1: error: Problems running dot: exit code=127, command='dot', arguments='"/home/blue/Documents/GitHub/full-cmake-non-guided/docs/latex/d2/d35/prime_8cpp__incl.dot" -Tpdf -o "/home/blue/Documents/GitHub/full-cmake-non-guided/docs/latex/d2/d35/prime_8cpp__incl.pdf"'
+/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/dir_68267d1309a1af8e8297ef4c3efbcdba_dep.dot:1: error: Problems running dot: exit code=127, command='dot', arguments='"/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/dir_68267d1309a1af8e8297ef4c3efbcdba_dep.dot" -Tpng -o "/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/dir_68267d1309a1af8e8297ef4c3efbcdba_dep.png"'
+/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/graph_legend.dot:1: error: Problems running dot: exit code=127, command='dot', arguments='"/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/graph_legend.dot" -Tpng -o "/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/graph_legend.png"'
+/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/d9/d78/factorial_8cpp__incl.dot:1: error: Problems running dot: exit code=127, command='dot', arguments='"/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/d9/d78/factorial_8cpp__incl.dot" -Tpng -o "/home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/d9/d78/factorial_8cpp__incl.png"'
+/home/blue/Documents/GitHub/full-cmake-non-guided/docs/latex/d3/d30/palindrome_8cpp__incl.dot:1: error: Problems running dot: exit code=127, command='dot', arguments='"/home/blue/Documents/GitHub/full-cmake-non-guided/docs/latex/d3/d30/palindrome_8cpp__incl.dot" -Tpdf -o "/home/blue/Documents/GitHub/full-cmake-non-guided/docs/latex/d3/d30/palindrome_8cpp__incl.pdf"'
+/home/blue/Documents/GitHub/full-cmake-non-guided/docs/latex/d4/d2d/palindrome_8h__dep__incl.dot:1: error: Problems running dot: exit code=127, command='dot', arguments='"/home/blue/Documents/GitHub/full-cmake-non-guided/docs/latex/d4/d2d/palindrome_8h__dep__incl.dot" -Tpdf -o "/home/blue/Documents/GitHub/full-cmake-non-guided/docs/latex/d4/d2d/palindrome_8h__dep__incl.pdf"'
+/home/blue/Documents/GitHub/full-cmake-non-guided/docs/latex/d4/d62/example__class_8cpp__incl.dot:1: error: Problems running dot: exit code=127, command='dot', arguments='"/home/blue/Documents/GitHub/full-cmake-non-guided/docs/latex/d4/d62/example__class_8cpp__incl.dot" -Tpdf -o "/home/blue/Documents/GitHub/full-cmake-non-guided/docs/latex/d4/d62/example__class_8cpp__incl.pdf"'
+/home/blue/Documents/GitHub/full-cmake-non-guided/docs/latex/d5/dd8/palindrome_8h__incl.dot:1: error: Problems running dot: exit code=127, command='dot', arguments='"/home/blue/Documents/GitHub/full-cmake-non-guided/docs/latex/d5/dd8/palindrome_8h__incl.dot" -Tpdf -o "/home/blue/Documents/GitHub/full-cmake-non-guided/docs/latex/d5/dd8/palindrome_8h__incl.pdf"'
+/home/blue/Documents/GitHub/full-cmake-non-guided/docs/latex/d7/d73/prime_8h__dep__incl.dot:1: error: Problems running dot: exit code=127, command='dot', arguments='"/home/blue/Documents/GitHub/full-cmake-non-guided/docs/latex/d7/d73/prime_8h__dep__incl.dot" -Tpdf -o "/home/blue/Documents/GitHub/full-cmake-non-guided/docs/latex/d7/d73/prime_8h__dep__incl.pdf"'
+/home/blue/Documents/GitHub/full-cmake-non-guided/docs/latex/da/dce/main_8cpp__incl.dot:1: error: Problems running dot: exit code=127, command='dot', arguments='"/home/blue/Documents/GitHub/full-cmake-non-guided/docs/latex/da/dce/main_8cpp__incl.dot" -Tpdf -o "/home/blue/Documents/GitHub/full-cmake-non-guided/docs/latex/da/dce/main_8cpp__incl.pdf"'
+/home/blue/Documents/GitHub/full-cmake-non-guided/docs/latex/d7/d54/factorial_8h__dep__incl.dot:1: error: Problems running dot: exit code=127, command='dot', arguments='"/home/blue/Documents/GitHub/full-cmake-non-guided/docs/latex/d7/d54/factorial_8h__dep__incl.dot" -Tpdf -o "/home/blue/Documents/GitHub/full-cmake-non-guided/docs/latex/d7/d54/factorial_8h__dep__incl.pdf"'
+/home/blue/Documents/GitHub/full-cmake-non-guided/docs/latex/d9/d78/factorial_8cpp__incl.dot:1: error: Problems running dot: exit code=127, command='dot', arguments='"/home/blue/Documents/GitHub/full-cmake-non-guided/docs/latex/d9/d78/factorial_8cpp__incl.dot" -Tpdf -o "/home/blue/Documents/GitHub/full-cmake-non-guided/docs/latex/d9/d78/factorial_8cpp__incl.pdf"'
+/home/blue/Documents/GitHub/full-cmake-non-guided/docs/latex/df/d0f/fibonacci_8cpp__incl.dot:1: error: Problems running dot: exit code=127, command='dot', arguments='"/home/blue/Documents/GitHub/full-cmake-non-guided/docs/latex/df/d0f/fibonacci_8cpp__incl.dot" -Tpdf -o "/home/blue/Documents/GitHub/full-cmake-non-guided/docs/latex/df/d0f/fibonacci_8cpp__incl.pdf"'
+/home/blue/Documents/GitHub/full-cmake-non-guided/docs/latex/df/d92/fibonacci_8h__dep__incl.dot:1: error: Problems running dot: exit code=127, command='dot', arguments='"/home/blue/Documents/GitHub/full-cmake-non-guided/docs/latex/df/d92/fibonacci_8h__dep__incl.dot" -Tpdf -o "/home/blue/Documents/GitHub/full-cmake-non-guided/docs/latex/df/d92/fibonacci_8h__dep__incl.pdf"'
+error: problems opening map file /home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/d7/d54/factorial_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/d2/d35/prime_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/d5/dd8/palindrome_8h__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/d4/d2d/palindrome_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/d4/d62/example__class_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/d9/d78/factorial_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/df/d0f/fibonacci_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/d3/d30/palindrome_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/df/d92/fibonacci_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/d7/d73/prime_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/da/dce/main_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/blue/Documents/GitHub/full-cmake-non-guided/docs/html/dir_68267d1309a1af8e8297ef4c3efbcdba_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: Failed to open file /home/blue/Documents/GitHub/full-cmake-non-guided/docs/latex/d7/d54/factorial_8h__dep__incl.pdf for extracting bounding box
+error: problem writing FIG 0 figure!

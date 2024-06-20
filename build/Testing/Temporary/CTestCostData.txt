@@ -1,0 +1,11 @@
+FactorialTest 0 0
+FibonacciTest 0 0
+PalindromeTest 0 0
+PrimeTest 0 0
+ExampleClassTest 0 0
+---
+FactorialTest
+FibonacciTest
+PalindromeTest
+PrimeTest
+ExampleClassTest

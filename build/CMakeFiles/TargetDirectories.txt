@@ -1,0 +1,13 @@
+/home/blue/Documents/GitHub/full-cmake-non-guided/build/CMakeFiles/MyProject.dir
+/home/blue/Documents/GitHub/full-cmake-non-guided/build/CMakeFiles/doc_doxygen.dir
+/home/blue/Documents/GitHub/full-cmake-non-guided/build/CMakeFiles/test.dir
+/home/blue/Documents/GitHub/full-cmake-non-guided/build/CMakeFiles/edit_cache.dir
+/home/blue/Documents/GitHub/full-cmake-non-guided/build/CMakeFiles/rebuild_cache.dir
+/home/blue/Documents/GitHub/full-cmake-non-guided/build/tests/CMakeFiles/test_factorial.dir
+/home/blue/Documents/GitHub/full-cmake-non-guided/build/tests/CMakeFiles/test_fibonacci.dir
+/home/blue/Documents/GitHub/full-cmake-non-guided/build/tests/CMakeFiles/test_palindrome.dir
+/home/blue/Documents/GitHub/full-cmake-non-guided/build/tests/CMakeFiles/test_prime.dir
+/home/blue/Documents/GitHub/full-cmake-non-guided/build/tests/CMakeFiles/test_example_class.dir
+/home/blue/Documents/GitHub/full-cmake-non-guided/build/tests/CMakeFiles/test.dir
+/home/blue/Documents/GitHub/full-cmake-non-guided/build/tests/CMakeFiles/edit_cache.dir
+/home/blue/Documents/GitHub/full-cmake-non-guided/build/tests/CMakeFiles/rebuild_cache.dir

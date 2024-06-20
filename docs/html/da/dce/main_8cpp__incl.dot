@@ -1,0 +1,22 @@
+digraph "/home/blue/Documents/GitHub/full-cmake-non-guided/main.cpp"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  Node1 [id="Node000001",label="/home/blue/Documents\l/GitHub/full-cmake-non\l-guided/main.cpp",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="All functions of this project."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="factorial.h",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$d1/ded/factorial_8h.html",tooltip="Returns factorial of a number."];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="fibonacci.h",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$da/d98/fibonacci_8h.html",tooltip="Returns fibonacci of a number."];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="palindrome.h",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$d3/dbb/palindrome_8h.html",tooltip="Returns if a string of char is a palindrome."];
+  Node4 -> Node5 [id="edge4_Node000004_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="string",height=0.2,width=0.4,color="grey60", fillcolor="#E0E0E0", style="filled",tooltip=" "];
+  Node1 -> Node6 [id="edge5_Node000001_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="prime.h",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$dd/d99/prime_8h.html",tooltip="Returns prime of a number."];
+  Node1 -> Node7 [id="edge6_Node000001_Node000007",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="example_class.h",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$df/d07/example__class_8h_source.html",tooltip=" "];
+  Node1 -> Node8 [id="edge7_Node000001_Node000008",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="iostream",height=0.2,width=0.4,color="grey60", fillcolor="#E0E0E0", style="filled",tooltip=" "];
+}
